@@ -6,16 +6,15 @@ containing 10 attributes including a class label (benign and malignant) of 699 i
 The attribute and domain information of WBC database is given below:
 ID      Description                     Domain
 -------------------------------------------------
-attr1   Clump Thickness                 1 - 10
-attr2   Uniformity of Cell Size         1 - 10
-attr3   Uniformity of Cell Shape        1 - 10
-attr4   Marginal Adhesion               1 - 10
-attr5   Single Epithelial Cell Size     1 - 10
-attr6   Bare Nuclei                     1 - 10
-attr7   Bland Chromatin                 1 - 10
-attr8   Normal Nucleoli                 1 - 10
-attr9   Mitoses                         1 - 10
--------------------------------------------------
+-attr1   Clump Thickness                 1 - 10
+-attr2   Uniformity of Cell Size         1 - 10
+-attr3   Uniformity of Cell Shape        1 - 10
+-attr4   Marginal Adhesion               1 - 10
+-attr5   Single Epithelial Cell Size     1 - 10
+-attr6   Bare Nuclei                     1 - 10
+-attr7   Bland Chromatin                 1 - 10
+-attr8   Normal Nucleoli                 1 - 10
+-attr9   Mitoses                        1 - 10
 Class                           benign & malignant
 
 
