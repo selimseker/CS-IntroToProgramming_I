@@ -4,8 +4,7 @@ Well known breast cancer database, Wisconsin Breast Cancer Database, or WBC Data
 containing 10 attributes including a class label (benign and malignant) of 699 instances.
 
 The attribute and domain information of WBC database is given below:
-ID      Description                     Domain
--------------------------------------------------
+ID       Description                     Domain
 -attr1   Clump Thickness                 1 - 10
 -attr2   Uniformity of Cell Size         1 - 10
 -attr3   Uniformity of Cell Shape        1 - 10
@@ -29,7 +28,6 @@ i)relational operators and
 ii)numeric values to  calculate  the probability of him/her to show symptoms of breast cancer.
 
 #       Operator        Description
--------------------------------------------------
 1       <               less than
 2       <=              less than or equal to
 3       >               greater than
