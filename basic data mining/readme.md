@@ -36,6 +36,7 @@ ii)numeric values to  calculate  the probability of him/her to show symptoms of 
 6       =               equal to
 7       ?               any value
 
+
 Program run with command-line argument within the following formar:
         python 1.py <:11,!=:0,>=:1,>:5,?,?,<=:9,>:2,?
         
